@@ -1,0 +1,3425 @@
+{
+  "meta": {
+    "title": "German Universities Portal",
+    "scope": "Master's programmes in Computer Science, IT, Software Engineering, Data Science, AI/ML, Cybersecurity and closely related computing fields.",
+    "lastResearchUpdate": "2026-07-29",
+    "programCount": 94,
+    "universityCount": 64,
+    "verifiedCount": 94,
+    "initialDataProvider": "Muhammad Shazaib",
+    "contact": "03120416882",
+    "disclaimer": "Errors are possible. Always verify deadlines, admission requirements, fees and application routes on DAAD and the official university website before applying.",
+    "needsRecheckCount": 0
+  },
+  "programs": [
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Summer"
+      ],
+      "admissionType": "Admission restricted / selection",
+      "applicationRoute": "University application portal",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Next listed Summer 2027: 15 Dec 2026",
+        "winter": "Not listed in checked source",
+        "note": "Verify intake availability each cycle."
+      },
+      "tuition": "€1,500/semester for most non-EU students in Baden-Württemberg + semester fees",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Aalen University — Machine Learning and Data Analytics",
+          "url": "https://www.hs-aalen.de/en/courses/71"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Aalen University",
+      "program": "Machine Learning and Data Analytics",
+      "id": "aalen-university-machine-learning-and-data-analytics"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Programme-specific admission",
+      "applicationRoute": "University application / credential evaluation as instructed",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Until 15 Jan",
+        "winter": "Until 15 Jul",
+        "note": "DAAD listing."
+      },
+      "tuition": "€1,500/semester for most non-EU students in Baden-Württemberg + semester fees",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Industrial Artificial Intelligence",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/hochschule-albstadt-sigmaringen-industrial-artificial-intelligence-w73251/?hec-id=w73251"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Albstadt-Sigmaringen University",
+      "program": "Industrial Artificial Intelligence",
+      "id": "albstadt-sigmaringen-university-industrial-artificial-intelligence"
+    },
+    {
+      "id": "bauhaus-universitat-weimar-computer-science-for-digital-media",
+      "university": "Bauhaus-Universität Weimar",
+      "program": "Computer Science for Digital Media",
+      "degree": "Master",
+      "field": "HCI / Interactive Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "NC-frei",
+      "applicationRoute": "Uni-Assist for applicants with foreign certificates / university instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Non-EU/foreign degree: 15 Jan; EU/German degree: up to 31 Mar",
+        "winter": "Non-EU/foreign degree: 15 Jul; EU/German degree: up to 30 Sep",
+        "note": "Applicant-category deadlines differ; verify current cycle."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science for Digital Media",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4238/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 57
+    },
+    {
+      "id": "bauhaus-universitat-weimar-human-computer-interaction",
+      "university": "Bauhaus-Universität Weimar",
+      "program": "Human Computer Interaction",
+      "degree": "Master",
+      "field": "HCI / Interactive Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "NC-frei",
+      "applicationRoute": "Uni-Assist for applicants with foreign certificates / university instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Non-EU/foreign degree: 15 Jan; EU/German degree: up to 31 Mar",
+        "winter": "Non-EU/foreign degree: 15 Jul; EU/German degree: up to 30 Sep",
+        "note": "Applicant-category deadlines differ; verify current cycle."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Human-Computer Interaction",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4660/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 54
+    },
+    {
+      "id": "bielefeld-university-intelligent-interactive-systems",
+      "university": "Bielefeld University",
+      "program": "Intelligent Interactive Systems",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Programme-specific admission",
+      "applicationRoute": "Bielefeld University application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "5.5 (B2 equivalent shown by DAAD)",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "15 Jul",
+        "note": "Winter intake only; verify current cycle."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €300/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Intelligent Interactive Systems",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9646/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 9
+    },
+    {
+      "id": "bingen-university-of-applied-sciences-master-of-science-in-computer-science",
+      "university": "Bingen University of Applied Sciences",
+      "program": "Master of Science in Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction",
+      "applicationRoute": "VPD + university portal",
+      "vpd": "Yes",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "01 May–01 Jun",
+        "note": "DAAD programme listing."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "VPD/uni-assist costs may apply",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Source / application page from supplied sheet",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8324/#tab_registration"
+        }
+      ],
+      "notes": "Imported from supplied Excel row 15. Public portal marks unverified fields so users can verify before applying.",
+      "seedRow": 15
+    },
+    {
+      "id": "brandenburg-university-of-technology-cottbus-senftenberg-artificial-intelligence",
+      "university": "Brandenburg University of Technology Cottbus-Senftenberg",
+      "program": "Artificial Intelligence",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "Uni-Assist for international applicants / BTU instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "6.0",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Foreign qualification: 15 Jan; EU/EEA: 15 Feb; German qualification: around 01 Mar",
+        "winter": "Foreign qualification: 15 Jul; EU/EEA: 15 Aug; German qualification: around 31 Aug",
+        "note": "Applicant-category deadlines differ; verify current BTU cycle."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Artificial Intelligence",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8322/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 60
+    },
+    {
+      "id": "brandenburg-university-of-technology-cottbus-senftenberg-cyber-security",
+      "university": "Brandenburg University of Technology Cottbus-Senftenberg",
+      "program": "Cyber Security",
+      "degree": "Master",
+      "field": "Cybersecurity / IT Security",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "Uni-Assist for international applicants / BTU instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "6.0",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Non-EU/EEA: around 15 May; EU/EEA: around 15 Aug",
+        "note": "Verify current BTU cycle; deadlines can vary by qualification/citizenship."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Approx. €374/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Cyber Security",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4785/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 61
+    },
+    {
+      "id": "carl-von-ossietzky-university-of-oldenburg-computer-science",
+      "university": "Carl von Ossietzky University of Oldenburg",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "German (main) + English modules",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / programme requirements",
+      "applicationRoute": "Uni-Assist for international applicants / Oldenburg portal by category",
+      "vpd": "Not stated",
+      "moi": "Not an English-only programme; verify German and English language proof requirements",
+      "ielts": "Not an English-only programme; see official language requirements",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "International applicants via Uni-Assist; current DAAD date display should be verified before applying",
+        "winter": "EU via Uni-Assist: 15 Mar–30 Sep; non-EU current window shown as expired when checked",
+        "note": "DAAD currently displays applicant-category dates; verify the next active cycle because date rendering can span different years."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science, University of Oldenburg",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-oldenburg-computer-science-w7467/?hec-id=w7467"
+        }
+      ],
+      "notes": "DAAD lists German as the main language and English as a further language, so this is not presented as an English-only MSc.",
+      "seedRow": 51
+    },
+    {
+      "id": "carl-von-ossietzky-university-of-oldenburg-data-science-and-machine-learning",
+      "university": "Carl von Ossietzky University of Oldenburg",
+      "program": "Data Science and Machine Learning",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Programme-specific admission",
+      "applicationRoute": "Uni-Assist for applicants with foreign degree / university instructions",
+      "vpd": "Not stated",
+      "moi": "English-taught degree may be accepted under stated conditions",
+      "ielts": "B2 English (check accepted certificates)",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered / verify",
+        "winter": "Non-EU via Uni-Assist: 15 Mar–30 Apr; EU: up to 15 Jul (early application recommended)",
+        "note": "German-degree applicants have a separate university window."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Data Science and Machine Learning",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9906/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 50
+    },
+    {
+      "id": "chemnitz-university-of-technology-automotive-software-engineering",
+      "university": "Chemnitz University of Technology",
+      "program": "Automotive Software Engineering",
+      "degree": "Master",
+      "field": "Software Engineering",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "NC-frei",
+      "applicationRoute": "Uni-Assist / EduApplication as instructed by TU Chemnitz",
+      "vpd": "No",
+      "moi": "English-medium previous degree accepted by DAAD listing",
+      "ielts": "5.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "15 Jul",
+        "note": "Verify current applicant-category instructions."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €330/semester (DAAD snapshot)",
+      "applicationFee": "€49 (seed — verify)",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Automotive Software Engineering",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4122/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 18
+    },
+    {
+      "id": "chemnitz-university-of-technology-web-engineering",
+      "university": "Chemnitz University of Technology",
+      "program": "Web Engineering",
+      "degree": "Master",
+      "field": "Software Engineering",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction",
+      "applicationRoute": "EduApplication / TU Chemnitz instructions",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "5.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Until 15 Jan",
+        "winter": "Until 15 Jul",
+        "note": "DAAD international programme listing; verify current cycle before submission."
+      },
+      "tuition": "€0 tuition",
+      "semesterFee": "~€340.50 semester contribution (source snapshot)",
+      "applicationFee": "Check application platform",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Source / application page from supplied sheet",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4655/"
+        }
+      ],
+      "notes": "DAAD lists 100% English instruction and both summer/winter starts.",
+      "seedRow": 4
+    },
+    {
+      "id": "deggendorf-institute-of-technology-applied-artificial-intelligence-for-digital-production-management",
+      "university": "Deggendorf Institute of Technology",
+      "program": "Applied Artificial Intelligence for Digital Production Management",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "DIT online application portal",
+      "vpd": "No",
+      "moi": "Check DIT proof rules",
+      "ielts": "Check DIT accepted English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Oct–01 Dec",
+        "winter": "15 Apr–15 Jun",
+        "note": "Current programme page; verify each call."
+      },
+      "tuition": "No general tuition; service/semester fees may apply by student category",
+      "semesterFee": "Not stated",
+      "applicationFee": "€60 (seed — verify)",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DIT — Applied AI for Digital Production Management",
+          "url": "https://www.th-deg.de/dm-m-en"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 23
+    },
+    {
+      "id": "deggendorf-institute-of-technology-applied-computer-science",
+      "university": "Deggendorf Institute of Technology",
+      "program": "Applied Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "DIT online application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "5.5 / B2",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Oct–01 Nov (DAAD/DIT cycle; verify current call)",
+        "winter": "15 Apr–15 May (DAAD/DIT cycle; verify current call)",
+        "note": "Application window can be short."
+      },
+      "tuition": "€500/semester for many non-EU/Swiss/UK students; verify current DIT fee rules",
+      "semesterFee": "Approx. €82/semester (snapshot)",
+      "applicationFee": "Approx. €60 for some non-EU/EEA applications; verify",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DIT — Applied Computer Science",
+          "url": "https://www.th-deg.de/ac-m-en"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 21
+    },
+    {
+      "id": "deggendorf-institute-of-technology-artificial-intelligence-and-data-science",
+      "university": "Deggendorf Institute of Technology",
+      "program": "Artificial Intelligence and Data Science",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "DIT / joint-programme portal as specified for intake",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "5.5 / B2",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "DIT route typically 01 Oct–01 Nov",
+        "winter": "Joint-programme winter route has separate partner deadline; verify current call",
+        "note": "Application route differs by intake."
+      },
+      "tuition": "€500/semester for many non-EU/Swiss/UK students at DIT; partner rules may differ",
+      "semesterFee": "Approx. €82/semester at DIT (snapshot)",
+      "applicationFee": "Approx. €60 for some non-EU/EEA applications; verify",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DIT — Artificial Intelligence and Data Science",
+          "url": "https://www.th-deg.de/aid-m-en"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 22
+    },
+    {
+      "id": "deggendorf-institute-of-technology-high-performance-computing-quantum-computing",
+      "university": "Deggendorf Institute of Technology",
+      "program": "High Performance Computing / Quantum Computing",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "DIT online application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "B2 English; check accepted score mapping",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Oct–15 Jan for March start",
+        "winter": "Not offered",
+        "note": "Verify current programme call."
+      },
+      "tuition": "No tuition fee shown by DAAD; semester/service fees may apply",
+      "semesterFee": "€500 (seed — verify)",
+      "applicationFee": "€60 (seed — verify)",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — High Performance Computing / Quantum Computing",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7744/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 20
+    },
+    {
+      "id": "dortmund-university-of-applied-sciences-and-arts-digital-transformation",
+      "university": "Dortmund University of Applied Sciences and Arts",
+      "program": "Digital Transformation",
+      "degree": "Master",
+      "field": "IT / Information Systems",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "University / programme application process",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Non-EU: 15 Jun; EU: 15 Jul",
+        "note": "Pre-check/application process may open around February."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Digital Transformation",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4879/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 16
+    },
+    {
+      "id": "dresden-university-of-technology-computer-science",
+      "university": "Dresden University of Technology",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "NC-frei",
+      "applicationRoute": "Uni-Assist for many foreign-degree applicants; selma for eligible German-degree applicants",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "Check current TU Dresden proof rules",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Foreign degree: non-EU 01 Oct–30 Nov; EU up to 15 Jan",
+        "winter": "Foreign degree: non-EU 01 Apr–31 May; EU up to 15 Jul",
+        "note": "German-degree applicants have separate windows."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science, TU Dresden",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/10354/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 49
+    },
+    {
+      "id": "fau-erlangen-nurnberg-artificial-intelligence",
+      "university": "FAU Erlangen-Nürnberg",
+      "program": "Artificial Intelligence",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "FAU Campo",
+      "vpd": "No",
+      "moi": "English-medium Bachelor may be accepted according to DAAD proof rules",
+      "ielts": "5.5 / B2",
+      "gre": "GRE/GATE may be required for applicants with degrees outside specified recognition area; verify exceptions",
+      "deadlines": {
+        "summer": "Not offered / not listed in checked source",
+        "winter": "15 Feb–31 May",
+        "note": "Verify current admission round in Campo."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "€100 processing fee for many non-EU applications from Winter 2026/27; verify current rule",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "FAU — MSc Artificial Intelligence",
+          "url": "https://www.ai.study.fau.eu/prospective-students/application-and-admission/"
+        },
+        {
+          "label": "DAAD — Artificial Intelligence at FAU",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9076/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 24
+    },
+    {
+      "id": "fau-erlangen-nurnberg-information-and-communication-technology",
+      "university": "FAU Erlangen-Nürnberg",
+      "program": "Information and Communication Technology",
+      "degree": "Master",
+      "field": "IT / Information Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "FAU Campo",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "6.0 / B2",
+      "gre": "Not stated / programme-specific checks may apply",
+      "deadlines": {
+        "summer": "15 Sep–15 Jan",
+        "winter": "15 Apr–15 Jul",
+        "note": "Verify active Campo deadline."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Processing fee may apply to non-EU applicants; verify current FAU rules",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Information and Communication Technology, FAU",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4101/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 25
+    },
+    {
+      "id": "frankfurt-university-of-applied-sciences-information-technology",
+      "university": "Frankfurt University of Applied Sciences",
+      "program": "Information Technology",
+      "degree": "Master",
+      "field": "IT / Information Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "Uni-Assist for many international credentials / Frankfurt UAS process",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "Check current English certificate requirements",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "3-semester route: international applicants should verify eligibility/window; German-degree deadline around 15 Mar",
+        "winter": "4-semester route: international-credential deadline around 15 Apr; German-degree deadline around 15 Sep",
+        "note": "Study-duration route and credential type affect deadline."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Frankfurt UAS — Information Technology M.Eng.",
+          "url": "https://www.frankfurt-university.de/en/studies/master-programs/information-technology-meng/for-prospective-students/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 63
+    },
+    {
+      "id": "fu-berlin-data-science",
+      "university": "FU Berlin",
+      "program": "Data Science",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "Uni-Assist for applicants with foreign degree / FU process",
+      "vpd": "Not stated",
+      "moi": "Check accepted C1 proof list",
+      "ielts": "C1 English; see accepted IELTS score",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "31 May",
+        "note": "Current DAAD listing; verify FU application portal."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Data Science, Freie Universität Berlin",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7066/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 58
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Programme-specific eligibility",
+      "applicationRoute": "International applicants: check Uni-Assist / Fulda instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "Check English proof; German A2 also required",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Foreign degree for Winter 2026/27: by 31 May; EU/German degree can have later date",
+        "note": "Official Fulda page."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Uni-Assist fee may apply",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Fulda UAS — Data Science M.Sc.",
+          "url": "https://www.hs-fulda.de/en/studyprogramme/data-science-msc"
+        }
+      ],
+      "notes": "German A2 is an additional requirement even though the programme is English-taught.",
+      "seedRow": null,
+      "university": "Fulda University of Applied Sciences",
+      "program": "Data Science",
+      "id": "fulda-university-of-applied-sciences-data-science"
+    },
+    {
+      "id": "fulda-university-of-applied-sciences-global-software-development",
+      "university": "Fulda University of Applied Sciences",
+      "program": "Global Software Development",
+      "degree": "Master",
+      "field": "Software Engineering",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "Uni-Assist / Fulda application instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Foreign-degree non-EU: 01 Oct–01 Dec",
+        "winter": "Foreign-degree non-EU: 01 Mar–31 May",
+        "note": "Other applicant categories may have later deadlines."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Global Software Development",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3686/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 56
+    },
+    {
+      "id": "hamburg-university-of-technology-computer-science",
+      "university": "Hamburg University of Technology",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / programme requirements",
+      "applicationRoute": "TU Hamburg application portal",
+      "vpd": "No",
+      "moi": "Check TUHH accepted proof list",
+      "ielts": "Check TUHH accepted English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Dec–15 Jan",
+        "winter": "01 Jun–15 Jul",
+        "note": "Current official programme page; some international routes may have different pre-check windows."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "TU Hamburg — Computer Science MSc",
+          "url": "https://www.tuhh.de/tuhh/en/studying/before-studying/degree-courses/masters-programs/computer-science"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 28
+    },
+    {
+      "id": "hamburg-university-of-technology-data-science",
+      "university": "Hamburg University of Technology",
+      "program": "Data Science",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "TU Hamburg application portal",
+      "vpd": "No",
+      "moi": "Check TUHH accepted proof list",
+      "ielts": "See TUHH accepted English proof list",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Non-EU / no EU residence: 01 Dec–01 Mar; EU / qualifying EU residence: 01 Jun–15 Jul",
+        "note": "Applicant category affects window."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €350/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Data Science, TU Hamburg",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9040/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 26
+    },
+    {
+      "id": "hamburg-university-of-technology-information-and-communication-systems",
+      "university": "Hamburg University of Technology",
+      "program": "Information and Communication Systems",
+      "degree": "Master",
+      "field": "IT / Information Systems",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "TU Hamburg application portal",
+      "vpd": "No",
+      "moi": "Check TUHH accepted proof list",
+      "ielts": "See TUHH accepted English proof list",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "DAAD lists 01 Mar for key international application route; verify applicant category",
+        "note": "TUHH uses applicant-category windows."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €350/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Information and Communication Systems, TU Hamburg",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3747/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 27
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Local admission restriction / selection",
+      "applicationRoute": "University application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "See current Heidelberg/DAAD cycle",
+        "winter": "DAAD current non-EU window shown: 01 Aug–15 Sep 2026",
+        "note": "Heidelberg dates can appear unusually early/late in DAAD; verify the exact target intake on heiCO before applying."
+      },
+      "tuition": "€1,500/semester for most non-EU students in Baden-Württemberg + semester fees",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Heidelberg Data and Computer Science",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/heidelberg-university-data-and-computer-science-w7675/?hec-id=w7675"
+        }
+      ],
+      "notes": "The exact DAAD detail identifier may change; use the linked official/DAAD record to reconfirm the active cycle.",
+      "seedRow": null,
+      "university": "Heidelberg University",
+      "program": "Data and Computer Science",
+      "id": "heidelberg-university-data-and-computer-science"
+    },
+    {
+      "id": "heinrich-heine-university-dusseldorf-artificial-intelligence-and-data-science",
+      "university": "Heinrich Heine University Düsseldorf",
+      "program": "Artificial Intelligence and Data Science",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Admission restricted / selection",
+      "applicationRoute": "HHU application process",
+      "vpd": "Not stated",
+      "moi": "Fully English previous Bachelor/Master can be accepted according to DAAD listing",
+      "ielts": "6.0",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "15 Jul",
+        "note": "Verify current HHU portal."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €300/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Artificial Intelligence and Data Science, HHU",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6937/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 53
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Robotics / Autonomous Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / eligibility check",
+      "applicationRoute": "University / international application instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "B2+ English; verify accepted evidence",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "See official application page",
+        "winter": "See official application page",
+        "note": "Both intakes are offered; programme-specific deadline must be checked."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "H-BRS — Autonomous Systems M.Sc.",
+          "url": "https://www.h-brs.de/en/inf/study/master/autonomous-systems"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Hochschule Bonn-Rhein-Sieg",
+      "program": "Autonomous Systems",
+      "id": "hochschule-bonn-rhein-sieg-autonomous-systems"
+    },
+    {
+      "id": "hof-university-of-applied-sciences-applied-research-in-computer-science",
+      "university": "Hof University of Applied Sciences",
+      "program": "Applied Research in Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "PRIMUSS / Hof application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "05 Nov–30 Nov",
+        "winter": "15 Apr–31 May",
+        "note": "DAAD programme listing."
+      },
+      "tuition": "Check source",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Source / application page from supplied sheet",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6236/#tab_registration"
+        }
+      ],
+      "notes": "Imported from supplied Excel row 8. Public portal marks unverified fields so users can verify before applying.",
+      "seedRow": 8
+    },
+    {
+      "id": "kiel-university-computer-science",
+      "university": "Kiel University",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English (programme can be completed in English)",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "Uni-Assist for many applicants with non-German certificates / Kiel process",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof rules",
+      "ielts": "B1 English or alternative proof; GRE verbal >=145 can satisfy stated alternative",
+      "gre": "GRE verbal may serve as language-proof alternative; not a general admission requirement",
+      "deadlines": {
+        "summer": "15 Jan",
+        "winter": "15 Jul",
+        "note": "Verify current applicant category."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science, Kiel University",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6148/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 65
+    },
+    {
+      "id": "kiel-university-of-applied-sciences-computer-science",
+      "university": "Kiel University of Applied Sciences",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "Uni-Assist / Kiel UAS instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "5.5 / B2",
+      "gre": "Quantitative GRE >=55th percentile shown by DAAD",
+      "deadlines": {
+        "summer": "15 Mar",
+        "winter": "15 Sep",
+        "note": "Verify current application window."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €378/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science, Kiel UAS",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9058/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 64
+    },
+    {
+      "id": "neu-ulm-university-of-applied-sciences-artificial-intelligence-and-data-analytics",
+      "university": "Neu-Ulm University of Applied Sciences",
+      "program": "Artificial Intelligence and Data Analytics",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "NC-frei",
+      "applicationRoute": "Neu-Ulm UAS application process",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "B2 English; check accepted score mapping",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Non-EU: 02 May–15 Jul; EU: 02 May–31 Aug",
+        "note": "Verify current portal dates."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €100/semester (DAAD snapshot)",
+      "applicationFee": "€50 (seed — verify)",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Artificial Intelligence and Data Analytics",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4734/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 69
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Cybersecurity / IT Security",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Programme-specific admission",
+      "applicationRoute": "University portal / check international process",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "6.0 (with section requirements where specified)",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Non-EU outside EU: by 31 Mar; EU: by 15 Jul",
+        "note": "Official Offenburg information."
+      },
+      "tuition": "€1,500/semester for most non-EU students in Baden-Württemberg",
+      "semesterFee": "~€170 semester fees + possible Graduate School service fee",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Offenburg UAS — Enterprise and IT Security",
+          "url": "https://www.hs-offenburg.de/en/study-programs/master/enterprise-and-it-security"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Offenburg University of Applied Sciences",
+      "program": "Enterprise and IT Security",
+      "id": "offenburg-university-of-applied-sciences-enterprise-and-it-security"
+    },
+    {
+      "id": "ostbayerische-technische-hochschule-amberg-weiden-artificial-intelligence-for-industrial-applications",
+      "university": "Ostbayerische Technische Hochschule Amberg-Weiden",
+      "program": "Artificial Intelligence for Industrial Applications",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Selection / qualifying requirements",
+      "applicationRoute": "VPD + OTH application portal",
+      "vpd": "Yes",
+      "moi": "Check accepted proof list",
+      "ielts": "6.0",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Nov–08 Dec",
+        "winter": "15 Apr–08 Jun",
+        "note": "DAAD programme listing."
+      },
+      "tuition": "€0 tuition; semester fees may apply",
+      "semesterFee": "€587 (seed — verify)",
+      "applicationFee": "€50",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Source / application page from supplied sheet",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8977/#tab_registration"
+        }
+      ],
+      "notes": "Imported from supplied Excel row 14. Public portal marks unverified fields so users can verify before applying.",
+      "seedRow": 14
+    },
+    {
+      "id": "owl-university-of-applied-sciences-and-arts-information-technology",
+      "university": "OWL University of Applied Sciences and Arts",
+      "program": "Information Technology",
+      "degree": "Master",
+      "field": "IT / Information Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "KIS / Uni-Assist depending on applicant background",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "Check current programme English requirements",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "See current OWL University application period",
+        "winter": "See current OWL University application period",
+        "note": "DAAD confirms S/W admission; current exact dates should be verified in KIS/Uni-Assist."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Information Technology, OWL University",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technische-hochschule-ostwestfalen-lippe-information-technology-w26686/?hec-id=w26686"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 46
+    },
+    {
+      "id": "paderborn-university-computer-science",
+      "university": "Paderborn University",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Orts-NC",
+      "applicationRoute": "Paderborn University application process / Uni-Assist where instructed",
+      "vpd": "Not stated",
+      "moi": "MOI alone is not sufficient under checked DAAD language rule",
+      "ielts": "6.5",
+      "gre": "GRE/dMAT may be required for many non-EU applicants; verify exemption rules",
+      "deadlines": {
+        "summer": "International: 30 Nov; Germany/EU: up to 21 Mar",
+        "winter": "International: 31 May; Germany/EU: up to 21 Sep",
+        "note": "Applicant-category windows differ."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €280/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science, Paderborn University",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5616/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 66
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Local admission restriction",
+      "applicationRoute": "University / international application instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "See current source",
+        "winter": "Winter 2026/27 general deadline: 15 Jul",
+        "note": "DAAD programme record."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — AI and Advanced Information Technologies",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/rheinmain-university-of-applied-sciences-artificial-intelligence-and-advanced-information-technologies-w67938/?hec-id=w67938"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "RhineMain University of Applied Sciences",
+      "program": "Artificial Intelligence and Advanced Information Technologies",
+      "id": "rhinemain-university-of-applied-sciences-artificial-intelligence-and-advanced-information-technologies"
+    },
+    {
+      "id": "rptu-university-of-kaiserslautern-landau-computer-science",
+      "university": "RPTU University of Kaiserslautern-Landau",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / qualification assessment",
+      "applicationRoute": "RPTU Computer Science online application portal",
+      "vpd": "No",
+      "moi": "English-medium prior study may help; verify exact exemption. Basic German proof may also be required for enrolment.",
+      "ielts": "6.0",
+      "gre": "Optional / not listed as a general requirement in checked regulation",
+      "deadlines": {
+        "summer": "Visa-needed applicants abroad: 31 Oct; others: 15 Jan",
+        "winter": "Visa-needed applicants abroad: 30 Apr; others: 15 Jul",
+        "note": "RPTU says programme-specific deadlines apply; verify applicant category."
+      },
+      "tuition": "No tuition fee shown by DAAD; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science MSc, RPTU",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3629/"
+        },
+        {
+          "label": "RPTU — Master programmes in English",
+          "url": "https://rptu.de/international/master/prospective-students/master-programs/master-programs-in-english"
+        },
+        {
+          "label": "RPTU — Computer Science Master examination regulations",
+          "url": "https://www.cs.rptu.de/studium/studierende/ordnungen/inf-ma-en/Examination_Regulations_CS-Master.pdf"
+        }
+      ],
+      "notes": "RPTU lists the Computer Science MSc as English-taught. Current regulations specify IELTS 6.0 as one accepted English proof; check the German-language enrolment requirement separately.",
+      "seedRow": 30
+    },
+    {
+      "id": "rwth-aachen-university-human-centred-intelligent-systems",
+      "university": "RWTH Aachen University",
+      "program": "Human-Centred Intelligent Systems",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "RWTHonline",
+      "vpd": "No",
+      "moi": "Check RWTH accepted proof list",
+      "ielts": "5.5 / B2",
+      "gre": "Required for many applicants from outside EU/EEA; verify programme exceptions",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Non-EU/EEA: 01 Mar; EU/EEA: 15 Jul",
+        "note": "First-semester admission in winter."
+      },
+      "tuition": "No tuition fee; semester/social contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "RWTH — Human-Centred Intelligent Systems",
+          "url": "https://www.rwth-aachen.de/go/id/bpkb/lidx/1"
+        },
+        {
+          "label": "DAAD — Human-Centred Intelligent Systems",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/10136/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 29
+    },
+    {
+      "id": "rwth-aachen-university-software-systems-engineering",
+      "university": "RWTH Aachen University",
+      "program": "Software Systems Engineering",
+      "degree": "Master",
+      "field": "Software Engineering",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / eligibility assessment",
+      "applicationRoute": "RWTHonline",
+      "vpd": "No",
+      "moi": "Check RWTH accepted proof list",
+      "ielts": "6.0",
+      "gre": "Required/strongly programme-specific for many non-EU/EEA applicants; verify current exceptions and score rules",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Non-EU/EEA: 01 Mar; EU/EEA: 15 Jul",
+        "note": "First-semester admission only in winter."
+      },
+      "tuition": "No tuition fee; semester/social contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Software Systems Engineering",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3696/"
+        },
+        {
+          "label": "RWTH — SSE application",
+          "url": "https://sc.informatik.rwth-aachen.de/de/studium/master/sse/application-for-admission/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 32
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / academic screening",
+      "applicationRoute": "Saarland application system",
+      "vpd": "No",
+      "moi": "MOI alone not accepted as blanket proof",
+      "ielts": "C1 English; accepted proof list required",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Late deadline typically 15 Nov (early decision: 15 May)",
+        "winter": "Late deadline typically 15 May (early decision: 15 Nov)",
+        "note": "Programme-specific CS application cycles; verify the current call."
+      },
+      "tuition": "€0 tuition",
+      "semesterFee": "Semester contribution applies",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Saarland University — Computer Science M.Sc.",
+          "url": "https://www.uni-saarland.de/en/study/programmes/master/computer-science.html"
+        }
+      ],
+      "notes": "English-taught research master's. Source-checked against Saarland programme information.",
+      "seedRow": null,
+      "university": "Saarland University",
+      "program": "Computer Science",
+      "id": "saarland-university-computer-science"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Cybersecurity / IT Security",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / academic screening",
+      "applicationRoute": "Saarland application system",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "C1 English",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Programme-specific deadline — check current call",
+        "winter": "University-wide non-EU deadline shown by DAAD: 15 Jul 2026; programme may use earlier screening",
+        "note": "Use the programme page for the binding deadline."
+      },
+      "tuition": "€0 tuition",
+      "semesterFee": "Semester contribution applies",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Saarland Cybersecurity",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/saarland-university-cybersecurity-w64998/?hec-id=w64998"
+        },
+        {
+          "label": "Saarland Cybersecurity programme",
+          "url": "https://cysec.uni-saarland.de/master/cybersecurity/"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Saarland University",
+      "program": "Cybersecurity",
+      "id": "saarland-university-cybersecurity"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / academic screening",
+      "applicationRoute": "Saarland application system",
+      "vpd": "No",
+      "moi": "MOI alone not accepted as blanket proof",
+      "ielts": "C1 English; accepted proof list required",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Late deadline typically 15 Nov (early decision: 15 May)",
+        "winter": "Late deadline typically 15 May (early decision: 15 Nov)",
+        "note": "Verify the current programme call."
+      },
+      "tuition": "€0 tuition",
+      "semesterFee": "Semester contribution applies",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Saarland University — Data Science and AI M.Sc.",
+          "url": "https://www.uni-saarland.de/en/study/programmes/master/data-science.html"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Saarland University",
+      "program": "Data Science and Artificial Intelligence",
+      "id": "saarland-university-data-science-and-artificial-intelligence"
+    },
+    {
+      "id": "schmalkalden-university-of-applied-sciences-applied-computer-science",
+      "university": "Schmalkalden University of Applied Sciences",
+      "program": "Applied Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "Schmalkalden UAS application process",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "See current programme English-certificate requirements",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Programme page lists 01 Feb–15 Apr; central deadline overview has listed 15 May — verify the active call",
+        "note": "Official pages showed conflicting dates when researched; verify before applying."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Schmalkalden UAS — Applied Computer Science",
+          "url": "https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/applied-computer-science-msc"
+        }
+      ],
+      "notes": "Official programme and central deadline pages showed a date discrepancy during research; portal intentionally flags this in the deadline note.",
+      "seedRow": 38
+    },
+    {
+      "id": "technical-university-of-applied-sciences-augsburg-interactive-media-systems",
+      "university": "Technical University of Applied Sciences Augsburg",
+      "program": "Interactive Media Systems",
+      "degree": "Master",
+      "field": "HCI / Interactive Systems",
+      "language": "English (can be completed fully in English)",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Selection / aptitude procedure",
+      "applicationRoute": "Uni-Assist + university instructions",
+      "vpd": "Not stated",
+      "moi": "Not a blanket exemption",
+      "ielts": "No fixed IELTS minimum stated; English assessed",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Nov–01 Dec",
+        "winter": "02 May–15 Jun",
+        "note": "DAAD programme listing."
+      },
+      "tuition": "€0 tuition",
+      "semesterFee": "~€160 semester contribution (source snapshot)",
+      "applicationFee": "Uni-Assist fee may apply",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Source / application page from supplied sheet",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6968/#tab_registration"
+        }
+      ],
+      "notes": "Imported from supplied Excel row 7. Public portal marks unverified fields so users can verify before applying.",
+      "seedRow": 7
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Entrance-competence assessment",
+      "applicationRoute": "TUCaN / TU Darmstadt application",
+      "vpd": "No",
+      "moi": "Check official equivalents",
+      "ielts": "7.0 / C1",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Dec–15 Jan",
+        "winter": "01 Jun–15 Jul",
+        "note": "Winter start is recommended; summer is possible."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "TU Darmstadt — AIM M.Sc.",
+          "url": "https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/aim_msc.en.jsp"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Technical University of Darmstadt",
+      "program": "Artificial Intelligence and Machine Learning",
+      "id": "technical-university-of-darmstadt-artificial-intelligence-and-machine-learning"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / entrance-competence assessment",
+      "applicationRoute": "TUCaN / TU Darmstadt application",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "C1 / check programme proof rules",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "See current CS application page",
+        "winter": "See current CS application page",
+        "note": "DAAD confirms both summer and winter starts; current departmental deadlines can change."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — TU Darmstadt Computer Science",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/technical-university-of-darmstadt-computer-science-w7509/?hec-id=w7509"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Technical University of Darmstadt",
+      "program": "Computer Science",
+      "id": "technical-university-of-darmstadt-computer-science"
+    },
+    {
+      "id": "technical-university-of-darmstadt-information-and-communication-engineering",
+      "university": "Technical University of Darmstadt",
+      "program": "Information and Communication Engineering",
+      "degree": "Master",
+      "field": "IT / Information Systems",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "TU Darmstadt application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "7.0 / C1",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "See current TU Darmstadt deadline page",
+        "note": "DAAD did not provide a fixed programme deadline in the checked snapshot."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Semester contribution applies; amount changes by semester",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Source / application page from supplied sheet",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3717/#tab_costs"
+        }
+      ],
+      "notes": "Imported from supplied Excel row 10. Public portal marks unverified fields so users can verify before applying.",
+      "seedRow": 10
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Cybersecurity / IT Security",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Entrance-competence assessment",
+      "applicationRoute": "TUCaN / TU Darmstadt application",
+      "vpd": "No",
+      "moi": "Check official equivalents",
+      "ielts": "7.0 / C1",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Dec–15 Jan",
+        "winter": "01 Jun–15 Jul",
+        "note": "Use the CS department application page for current rules."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "TU Darmstadt — Computer Science Master's application",
+          "url": "https://www.informatik.tu-darmstadt.de/studium_fb20/vor_dem_studium/bewerbung_1/bewerbung_2.en.jsp"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Technical University of Darmstadt",
+      "program": "IT Security",
+      "id": "technical-university-of-darmstadt-it-security"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Aptitude assessment",
+      "applicationRoute": "TUMonline + VPD via Uni-Assist for most foreign Master's entrance qualifications",
+      "vpd": "Yes / conditional by qualification",
+      "moi": "Check TUM language proof rules",
+      "ielts": "English proof required; check TUM accepted certificates",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Oct–30 Nov (visa applicants recommended by 31 Oct)",
+        "winter": "01 Feb–31 May (visa applicants recommended by 31 Mar)",
+        "note": "Official TUM/CIT deadlines."
+      },
+      "tuition": "€6,000/semester for international students from third countries (waivers/scholarships may apply)",
+      "semesterFee": "€97 at Garching/Munich in Summer 2026; amount can change",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "TUM — Informatics M.Sc.",
+          "url": "https://www.tum.de/en/studies/degree-programs/detail/informatics-master-of-science-msc"
+        },
+        {
+          "label": "TUM CIT — Master Informatics",
+          "url": "https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Technical University of Munich (TUM)",
+      "program": "Informatics",
+      "id": "technical-university-of-munich-tum-informatics"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "IT / Information Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Aptitude assessment",
+      "applicationRoute": "TUMonline + international credential process",
+      "vpd": "Conditional",
+      "moi": "Check TUM accepted proof",
+      "ielts": "English proof required",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Oct–30 Nov",
+        "winter": "01 Feb–31 May",
+        "note": "Official TUM programme page."
+      },
+      "tuition": "Check current TUM tuition policy for this programme/campus",
+      "semesterFee": "€97 at Heilbronn in Summer 2026; amount can change",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "TUM — Information Engineering M.Sc.",
+          "url": "https://www.tum.de/en/studies/degree-programs/detail/information-engineering-master-of-science-msc"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Technical University of Munich (TUM)",
+      "program": "Information Engineering (Heilbronn)",
+      "id": "technical-university-of-munich-tum-information-engineering-heilbronn"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "IT / Information Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Aptitude assessment",
+      "applicationRoute": "TUMonline + VPD may be required for foreign qualification",
+      "vpd": "Yes / conditional by qualification",
+      "moi": "Check TUM accepted proof",
+      "ielts": "English proof required",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Oct–30 Nov",
+        "winter": "01 Feb–31 May",
+        "note": "Official TUM programme page."
+      },
+      "tuition": "Tuition fees for non-EU third-country students apply; verify current programme amount",
+      "semesterFee": "Semester fee applies",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "TUM — Information Systems M.Sc.",
+          "url": "https://www.tum.de/en/studies/degree-programs/detail/information-systems-master-of-science-msc"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Technical University of Munich (TUM)",
+      "program": "Information Systems",
+      "id": "technical-university-of-munich-tum-information-systems"
+    },
+    {
+      "id": "technische-hochschule-ingolstadt-user-experience-design",
+      "university": "Technische Hochschule Ingolstadt",
+      "program": "User Experience Design",
+      "degree": "Master",
+      "field": "HCI / Interactive Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Local admission restriction / selection",
+      "applicationRoute": "VPD + THI application portal",
+      "vpd": "Yes",
+      "moi": "Check accepted proof list",
+      "ielts": "5.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "15 Oct–15 Jan (next listed cycle)",
+        "winter": "01 Apr–15 Jul (next listed cycle)",
+        "note": "DAAD snapshot showed future cycle dates; verify current intake in THI portal."
+      },
+      "tuition": "Check THI fees for international students",
+      "semesterFee": "Semester contribution applies",
+      "applicationFee": "VPD/uni-assist costs may apply",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Source / application page from supplied sheet",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6140/#tab_registration"
+        }
+      ],
+      "notes": "Imported from supplied Excel row 13. Public portal marks unverified fields so users can verify before applying.",
+      "seedRow": 13
+    },
+    {
+      "id": "technische-hochschule-koln-automation-it",
+      "university": "Technische Hochschule Köln",
+      "program": "Automation & IT",
+      "degree": "Master",
+      "field": "IT / Information Systems",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "TH Köln / Uni-Assist according to applicant background",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "6.0",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "See current TH Köln “How to Apply” page",
+        "note": "DAAD confirms winter intake but directs applicants to current programme instructions for deadline."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "€335 (seed — verify)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Automation & IT, TH Köln",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3961/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 62
+    },
+    {
+      "id": "technische-universitat-braunschweig-data-science",
+      "university": "Technische Universität Braunschweig",
+      "program": "Data Science",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Admission restricted",
+      "applicationRoute": "University application portal / international instructions",
+      "vpd": "No",
+      "moi": "Check official accepted proof list",
+      "ielts": "English proof required; verify accepted certificates",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Non-EU: 01 Aug–15 Sep; EU: 01 Dec–15 Jan",
+        "winter": "Non-EU: 01 Feb–15 Mar; EU: 01 Jun–15 Jul",
+        "note": "Official TU Braunschweig page; non-EU deadlines differ."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "TU Braunschweig — Data Science prospective students",
+          "url": "https://www.tu-braunschweig.de/en/data-science/prospectivestudents"
+        }
+      ],
+      "notes": "Imported from supplied Excel row 33. Public portal marks unverified fields so users can verify before applying.",
+      "seedRow": 33
+    },
+    {
+      "id": "technische-universitat-ilmenau-data-science",
+      "university": "Technische Universität Ilmenau",
+      "program": "Data Science",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "TU Ilmenau online application",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "C1 English; check accepted IELTS mapping",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Non-EU: 01 Aug–15 Nov; EU: 16 Oct–15 Mar",
+        "winter": "Non-EU: 16 Jan–15 May; EU: 16 Apr–15 Sep",
+        "note": "Applicant-category windows from DAAD."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €250/semester + one-time ID fee (snapshot)",
+      "applicationFee": "€75 (seed — verify)",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Data Science, TU Ilmenau",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/10469/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 42
+    },
+    {
+      "id": "technische-universitat-ilmenau-research-in-computer-systems-engineering-rcse",
+      "university": "Technische Universität Ilmenau",
+      "program": "Research in Computer & Systems Engineering (RCSE)",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "TU Ilmenau online application",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "7.0 / C1",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Non-EU: 01 Aug–15 Nov; EU: 16 Oct–15 Mar",
+        "winter": "Non-EU: 16 Jan–15 May; EU: 16 Apr–15 Sep",
+        "note": "Applicant-category windows from DAAD."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €275/semester (DAAD snapshot)",
+      "applicationFee": "€75 (seed — verify)",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Research in Computer & Systems Engineering",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4092/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 43
+    },
+    {
+      "id": "trier-university-data-science",
+      "university": "Trier University",
+      "program": "Data Science",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / programme requirements",
+      "applicationRoute": "PORTA (Trier University)",
+      "vpd": "No",
+      "moi": "MOI alone is not accepted as English proof under the checked general ETM rule",
+      "ielts": "6.5 / C1",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Non-EU: 15 Dec–15 Jan; EU: 15 Dec–15 Jan",
+        "winter": "Non-EU: 01 May–31 May; EU: 01 May–15 Jul",
+        "note": "English-taught Master application windows; verify programme-specific exceptions."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "€70 evaluation fee may apply for international certificates",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Trier University — Data Science",
+          "url": "https://www.uni-trier.de/en/studium/studienangebot/studiengaenge-von-a-z/english-taught-masters-courses/data-science-master-of-science-1-subject-study-information-en"
+        },
+        {
+          "label": "Trier University — English-taught Master application",
+          "url": "https://www.uni-trier.de/en/studies/application-admission/application-english-taught-master-programmes"
+        },
+        {
+          "label": "Trier University — language requirements",
+          "url": "https://www.uni-trier.de/studium/bewerbung/zugangsvoraussetzungen/zugangsvoraussetzung-fremdsprachen"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 34
+    },
+    {
+      "id": "trier-university-natural-language-processing",
+      "university": "Trier University",
+      "program": "Natural Language Processing",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / programme requirements",
+      "applicationRoute": "PORTA (Trier University)",
+      "vpd": "No",
+      "moi": "MOI alone is not accepted as English proof under the checked general ETM rule",
+      "ielts": "6.5 / C1",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Non-EU: 15 Dec–15 Jan; EU: 15 Dec–15 Jan",
+        "winter": "Non-EU: 01 May–31 May; EU: 01 May–15 Jul",
+        "note": "English-taught Master application windows; verify programme-specific exceptions."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "€70 evaluation fee may apply for international certificates",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Trier University — Natural Language Processing",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-trier-natural-language-processing-w65007/?hec-id=w65007"
+        },
+        {
+          "label": "Trier University — English-taught Master application",
+          "url": "https://www.uni-trier.de/en/studies/application-admission/application-english-taught-master-programmes"
+        },
+        {
+          "label": "Trier University — language requirements",
+          "url": "https://www.uni-trier.de/studium/bewerbung/zugangsvoraussetzungen/zugangsvoraussetzung-fremdsprachen"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 35
+    },
+    {
+      "id": "tu-dortmund-university-data-science",
+      "university": "TU Dortmund University",
+      "program": "Data Science",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "TU Dortmund application process",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "B2 English; check accepted score mapping",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "International applicants: approx. 18 Nov–15 Jan",
+        "winter": "International applicants: approx. 01 Jan–15 Jun",
+        "note": "Verify exact cycle dates in TU Dortmund portal."
+      },
+      "tuition": "No tuition fee; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Data Science, TU Dortmund",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8951/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 48
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Selection / limited places",
+      "applicationRoute": "International applicants: Uni-Assist according to official process",
+      "vpd": "Not stated",
+      "moi": "Degree completely taught in English may qualify for exemption — verify",
+      "ielts": "7.0 (unless an official exemption applies)",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "01 Apr–15 May",
+        "note": "Official application information."
+      },
+      "tuition": "€1,500/semester for most non-EU students in Baden-Württemberg + semester fees",
+      "semesterFee": "Not stated",
+      "applicationFee": "Uni-Assist fee may apply",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Ulm University — Cognitive Systems M.Sc.",
+          "url": "https://www.uni-ulm.de/en/in/fakultaet/studium/studiengaenge/cognitive-systems-msc/"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "Ulm University",
+      "program": "Cognitive Systems",
+      "id": "ulm-university-cognitive-systems"
+    },
+    {
+      "id": "university-of-augsburg-data-science",
+      "university": "University of Augsburg",
+      "program": "Data Science",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English + German",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "University portal",
+      "vpd": "No",
+      "moi": "Reported in seed — verify",
+      "ielts": "Not stated in seed",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Until 01 Mar (international applicants recommended by 01 Nov)",
+        "winter": "Until 01 Sep (international applicants recommended by 01 May)",
+        "note": "Official Augsburg page; mixed-language programme."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Augsburg — Data Science M.Sc.",
+          "url": "https://www.uni-augsburg.de/en/fakultaet/fai/informatik/studium/master-data-science/"
+        }
+      ],
+      "notes": "Included because it is directly relevant to Data Science, but the official page lists German and English as languages of instruction.",
+      "seedRow": 17
+    },
+    {
+      "id": "university-of-augsburg-software-engineering",
+      "university": "University of Augsburg",
+      "program": "Software Engineering",
+      "degree": "Master",
+      "field": "Software Engineering",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Aptitude assessment / open admission",
+      "applicationRoute": "University portal",
+      "vpd": "No",
+      "moi": "Reported in seed — verify",
+      "ielts": "Not stated in seed",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "01 May (programme deadline; verify exact cycle in portal)",
+        "note": "Official programme page says winter start; application deadline 1 May."
+      },
+      "tuition": "No tuition stated; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Augsburg — Software Engineering M.Sc.",
+          "url": "https://www.uni-augsburg.de/en/fakultaet/fai/informatik/studium/master-software-engineering/"
+        }
+      ],
+      "notes": "English-taught, winter intake. Official university source takes precedence over the seed sheet.",
+      "seedRow": 2
+    },
+    {
+      "id": "university-of-bamberg-international-software-systems-science",
+      "university": "University of Bamberg",
+      "program": "International Software Systems Science",
+      "degree": "Master",
+      "field": "Software Engineering",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "University of Bamberg application process",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5",
+      "gre": "GRE/GATE may be required for some degrees outside Lisbon Recognition Convention; verify grade/exception rules",
+      "deadlines": {
+        "summer": "15 Jan",
+        "winter": "15 Jul",
+        "note": "Verify current programme admission page."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €119/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — International Software Systems Science",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4521/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 70
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Local NC / special selection",
+      "applicationRoute": "University of Bonn application portal",
+      "vpd": "No",
+      "moi": "Check accepted C1 proof",
+      "ielts": "C1 English",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "2026/27 non-EEA: 15 May–01 Jun; EEA second period: 01 Jul–15 Jul",
+        "note": "Official Bonn CS institute deadlines; programme starts Winter 2026/27."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Bonn — Artificial Intelligence M.Sc.",
+          "url": "https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/artificial-intelligence-msc"
+        },
+        {
+          "label": "University of Bonn — Master's deadlines",
+          "url": "https://www.informatik.uni-bonn.de/en/studies/examination-office/deadlines-at-a-glance"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "University of Bonn",
+      "program": "Artificial Intelligence",
+      "id": "university-of-bonn-artificial-intelligence"
+    },
+    {
+      "id": "university-of-bonn-computer-science",
+      "university": "University of Bonn",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Selection / programme-specific admission",
+      "applicationRoute": "University of Bonn application portal",
+      "vpd": "No",
+      "moi": "Check accepted C1 proof",
+      "ielts": "C1 English (check accepted tests; seed 5.5 was not retained)",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "See programme deadline page",
+        "winter": "2026/27 non-EEA: 15 May–01 Jun; EEA second period: 01 Jul–15 Jul",
+        "note": "Official Institute of Computer Science deadlines."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Bonn — Master's application",
+          "url": "https://www.informatik.uni-bonn.de/en/studies/master-programs/master-program-application"
+        },
+        {
+          "label": "University of Bonn — deadlines",
+          "url": "https://www.informatik.uni-bonn.de/en/studies/examination-office/deadlines-at-a-glance"
+        }
+      ],
+      "notes": "The supplied sheet listed IELTS 5.5; the current official Computer Science/AI/Cyber Security application guidance requires English at CEFR C1.",
+      "seedRow": 31
+    },
+    {
+      "id": "university-of-bremen-digital-media",
+      "university": "University of Bremen",
+      "program": "Digital Media",
+      "degree": "Master",
+      "field": "HCI / Interactive Systems",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Admission restricted / selection",
+      "applicationRoute": "moin — University of Bremen application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "C1 English; see current accepted certificates",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "01 Apr–31 May",
+        "note": "Current programme application window; verify each cycle."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Bremen — Digital Media Master",
+          "url": "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/digital-media-media-informatics-media-design-master"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 36
+    },
+    {
+      "id": "university-of-gottingen-applied-computer-science",
+      "university": "University of Göttingen",
+      "program": "Applied Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English / German (language path depends on modules/proof)",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Admission restricted / selection",
+      "applicationRoute": "University of Göttingen online application",
+      "vpd": "No",
+      "moi": "Exclusively English-taught prior degree can count under official language rule",
+      "ielts": "6.5 for C1 English route",
+      "gre": "Not stated; non-EU applicants may face online aptitude test",
+      "deadlines": {
+        "summer": "Non-EU/EEA: 15 Oct; German/EU/EEA: 15 Dec",
+        "winter": "Non-EU/EEA: 15 Apr; German/EU/EEA: 15 Jun",
+        "note": "Official 2026/27 winter dates and corresponding semester pattern."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Göttingen — Applied Computer Science application",
+          "url": "https://uni-goettingen.de/en/619514.html"
+        },
+        {
+          "label": "Göttingen — Applied Computer Science programme",
+          "url": "https://www.uni-goettingen.de/en/619499.html"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 37
+    },
+    {
+      "id": "university-of-gottingen-applied-data-science",
+      "university": "University of Göttingen",
+      "program": "Applied Data Science",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "University application system",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Until 01 Nov",
+        "winter": "Until 01 May",
+        "note": "DAAD programme listing; deadline shown as recurring programme deadline."
+      },
+      "tuition": "€0 tuition",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Source / application page from supplied sheet",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7641/#tab_registration"
+        }
+      ],
+      "notes": "Imported from supplied Excel row 6. Public portal marks unverified fields so users can verify before applying.",
+      "seedRow": 6
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Local admission restriction",
+      "applicationRoute": "University portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "15 Feb–31 Mar",
+        "note": "DAAD lists the programme-specific application period."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Intelligent Adaptive Systems",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-hamburg-intelligent-adaptive-systems-w39157/?hec-id=w39157"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "University of Hamburg",
+      "program": "Intelligent Adaptive Systems",
+      "id": "university-of-hamburg-intelligent-adaptive-systems"
+    },
+    {
+      "id": "university-of-hildesheim-data-analytics",
+      "university": "University of Hildesheim",
+      "program": "Data Analytics",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "University of Hildesheim application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "6.0 / B2",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Non-EU: 21 Sep–15 Dec; EU: 21 Sep–15 Feb",
+        "winter": "Non-EU: 01 Apr–30 Jun; EU: 01 Apr–31 Aug",
+        "note": "Applicant-category windows differ."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €440/semester (snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Hildesheim — Data Analytics",
+          "url": "https://www.uni-hildesheim.de/en/fb4/studium/studiengaenge/data-analytics-master/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 19
+    },
+    {
+      "id": "university-of-hildesheim-software-engineering",
+      "university": "University of Hildesheim",
+      "program": "Software Engineering",
+      "degree": "Master",
+      "field": "Software Engineering",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "University portal / check international instructions",
+      "vpd": "No",
+      "moi": "Check accepted B2 proof",
+      "ielts": "5.0 example / B2 required",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Non-EU: 21 Sep–15 Dec; EU: until 15 Feb",
+        "winter": "Non-EU: 01 Apr–30 Jun; EU: until 31 Aug",
+        "note": "Different periods apply by applicant group."
+      },
+      "tuition": "€0 tuition",
+      "semesterFee": "~€440 semester contribution (source snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Source / application page from supplied sheet",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8417/#tab_registration"
+        }
+      ],
+      "notes": "Imported from supplied Excel row 5. Public portal marks unverified fields so users can verify before applying.",
+      "seedRow": 5
+    },
+    {
+      "id": "university-of-kassel-computer-science",
+      "university": "University of Kassel",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "NC-free / programme requirements",
+      "applicationRoute": "Uni-Assist for foreign certificates / eCampus for German certificates",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "B2 English; see accepted certificates",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Foreign certificates: 01 Sep–15 Jan; German certificates: 01 Dec–01 Mar",
+        "winter": "Foreign certificates: 01 Mar–15 Jul; German certificates: 01 Jun–01 Sep",
+        "note": "Credential origin determines application route/window."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Kassel — Computer Science MSc application",
+          "url": "https://www.uni-kassel.de/uni/en/studium/computer-science-master/application-and-admission.html"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 3
+    },
+    {
+      "id": "university-of-koblenz-web-and-data-science",
+      "university": "University of Koblenz",
+      "program": "Web and Data Science",
+      "degree": "Master",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Admission restricted / selection",
+      "applicationRoute": "Uni-Assist for many international applicants",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "See current official English requirements",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Non-EU: 15 Jun; EU: 15 Jul",
+        "note": "Verify current application instructions."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Web and Data Science",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4384/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 55
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Robotics / Autonomous Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Programme-specific selection",
+      "applicationRoute": "Non-EU: Uni-Assist; EU/direct: university portal",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Non-EU: 01 Sep–15 Oct; EU/direct: 01 Nov–15 Jan",
+        "winter": "Non-EU: 15 Feb–01 Apr; EU/direct: 01 May–15 Jul",
+        "note": "Applicant-group-specific deadlines."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Uni-Assist fee may apply",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Lübeck — Robotics and Autonomous Systems",
+          "url": "https://www.uni-luebeck.de/en/university-education/degree-programmes/robotics-and-autonomous-systems-msc.html"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "University of Lübeck",
+      "program": "Robotics and Autonomous Systems",
+      "id": "university-of-lubeck-robotics-and-autonomous-systems"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Selection procedure",
+      "applicationRoute": "University portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Conditional/required for some international academic backgrounds; official page lists score thresholds",
+      "deadlines": {
+        "summer": "15 Oct–15 Nov (spring start)",
+        "winter": "Typically Apr–May window; verify the current fall call",
+        "note": "Deadlines vary by intake year."
+      },
+      "tuition": "€1,500/semester for most non-EU students in Baden-Württemberg + semester fees",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Mannheim — Master in Data Science",
+          "url": "https://www.uni-mannheim.de/en/academics/programs/masters-program-in-data-science/"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "University of Mannheim",
+      "program": "Mannheim Master in Data Science",
+      "id": "university-of-mannheim-mannheim-master-in-data-science"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Programme-specific admission",
+      "applicationRoute": "University application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered in checked launch information",
+        "winter": "Winter 2026/27: applications until 15 Jul",
+        "note": "New English-taught programme starting Winter 2026/27; verify current call."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Münster — Data Science / Geoinformatics study information",
+          "url": "https://www.uni-muenster.de/Geoinformatics/en/Studies/study_programs/index.html"
+        }
+      ],
+      "notes": "New programme information may change during rollout; re-check before publicising each cycle.",
+      "seedRow": null,
+      "university": "University of Münster",
+      "program": "Data Science",
+      "id": "university-of-munster-data-science"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Data Science / NLP",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Programme-specific selection",
+      "applicationRoute": "University application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "See programme source",
+        "winter": "2026 non-EU: by 31 May; EU: by 15 Jul",
+        "note": "Institute's current-cycle information takes precedence."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Münster — Institute for Geoinformatics admissions",
+          "url": "https://www.uni-muenster.de/Geoinformatics/en/Studies/study_programs/index.html"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "University of Münster",
+      "program": "Geoinformatics and Spatial Data Science",
+      "id": "university-of-munster-geoinformatics-and-spatial-data-science"
+    },
+    {
+      "id": "university-of-munster-information-systems",
+      "university": "University of Münster",
+      "program": "Information Systems",
+      "degree": "Master",
+      "field": "IT / Information Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Admission restricted / selection",
+      "applicationRoute": "University of Münster application portal",
+      "vpd": "No",
+      "moi": "MOI does not generally count unless degree is from an English-speaking country under checked rule",
+      "ielts": "C1-equivalent IELTS; check current accepted score",
+      "gre": "GMAT Focus or GRE mandatory for non-EU applicants under current admissions rule",
+      "deadlines": {
+        "summer": "10 Nov–15 Jan",
+        "winter": "10 May–15 Jul",
+        "note": "Current programme page; verify applicant-specific document rules."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Münster — Information Systems application",
+          "url": "https://www.wi.uni-muenster.de/prospective-students/our-courses-study/master-science-information-systems/application-and-admission"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 41
+    },
+    {
+      "id": "university-of-passau-computer-science",
+      "university": "University of Passau",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English / German (can be studied entirely in English)",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / programme requirements",
+      "applicationRoute": "Uni-Assist for many international applicants / Passau campus portal by category",
+      "vpd": "Not stated",
+      "moi": "English-medium education can count under programme rules",
+      "ielts": "5.5 / B2",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Application round typically opens mid-Nov; DAAD lists next deadlines in Jan — verify current exact date",
+        "winter": "Application round typically opens early Apr; verify current exact deadline",
+        "note": "Passau explicitly warns that application dates can change by applicant category."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €120/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — MSc Computer Science, University of Passau",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-passau-computer-science-w12286/?hec-id=w12286"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 47
+    },
+    {
+      "id": "university-of-potsdam-computer-science-at-hasso-plattner-institute",
+      "university": "University of Potsdam",
+      "program": "Computer Science at Hasso Plattner Institute",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Admission restricted / selection",
+      "applicationRoute": "University of Potsdam application process",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "Check current HPI/University of Potsdam English proof",
+      "gre": "Not confirmed as a general requirement",
+      "deadlines": {
+        "summer": "Current DAAD cycle for Summer 2027: 01 Nov–01 Dec",
+        "winter": "Current 2026/27 window was closed when checked; verify next winter call",
+        "note": "Programme-specific master application window; dates can change each cycle."
+      },
+      "tuition": "No general tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science at Hasso Plattner Institute",
+          "url": "https://www.daad.de/de/in-deutschland-studieren/hochschulen/alle-studiengaenge/detail/universitaet-potsdam-computer-science-am-hasso-plattner-institut-w70337/?hec-id=w70337"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 39
+    },
+    {
+      "id": "university-of-regensburg-computer-science",
+      "university": "University of Regensburg",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English (programme can be completed in English)",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "University of Regensburg application process",
+      "vpd": "Yes",
+      "moi": "MOI alone is generally insufficient; English Bachelor thesis may count under DAAD rule",
+      "ielts": "6.5 / B2",
+      "gre": "Required for some applicants whose undergraduate degree is outside Lisbon Recognition Convention",
+      "deadlines": {
+        "summer": "01 Dec (non-EU recommended by 01 Nov)",
+        "winter": "01 Jun (non-EU recommended by 01 May)",
+        "note": "Verify current programme application page."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €200/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science, University of Regensburg",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9856/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 44
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Programme-specific selection",
+      "applicationRoute": "International degree: VPD via Uni-Assist + university portal",
+      "vpd": "Yes",
+      "moi": "Check accepted proof list",
+      "ielts": "Check C1/B2 equivalent on programme page",
+      "gre": "Required for some applicants whose Bachelor's degree is from outside Lisbon Convention states (programme-specific thresholds)",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Application window typically mid/late Apr–01 Jun",
+        "note": "Official 2026 programme information."
+      },
+      "tuition": "€0 tuition",
+      "semesterFee": "~€198 in checked source snapshot",
+      "applicationFee": "VPD/uni-assist fee may apply",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Regensburg — Human-Centred AI",
+          "url": "https://www.uni-regensburg.de/informatics-data-science/study/human-centred-ai/index.html"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "University of Regensburg",
+      "program": "Human-Centred Artificial Intelligence",
+      "id": "university-of-regensburg-human-centred-artificial-intelligence"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction",
+      "applicationRoute": "International applicants via Uni-Assist / university instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "B2 English",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "2027 non-EU/EU: 01 Oct–30 Nov 2026",
+        "winter": "Check current international application period",
+        "note": "DAAD current listing; both intakes offered."
+      },
+      "tuition": "€0 tuition",
+      "semesterFee": "Not stated",
+      "applicationFee": "Uni-Assist fee may apply",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science International",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-rostock-computer-science-international-w65237/?hec-id=w65237"
+        },
+        {
+          "label": "University of Rostock — MyGermanUniversity overview",
+          "url": "https://www.ief.uni-rostock.de/en/studieninteressierte/informieren/videos-flyer-und-broschueren-weblinks/ief-studiengaenge-im-web/"
+        }
+      ],
+      "notes": "This programme was additionally surfaced through the University of Rostock's MyGermanUniversity listing and verified against DAAD.",
+      "seedRow": null,
+      "university": "University of Rostock",
+      "program": "Computer Science International",
+      "id": "university-of-rostock-computer-science-international"
+    },
+    {
+      "id": "university-of-siegen-computer-science",
+      "university": "University of Siegen",
+      "program": "Computer Science",
+      "degree": "Master",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "University of Siegen application process",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered for first-semester entry",
+        "winter": "See current University of Siegen application page",
+        "note": "DAAD confirms winter start; exact deadline depends on current cycle."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €320/semester (DAAD snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Science, University of Siegen",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4591/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 40
+    },
+    {
+      "id": "university-of-siegen-human-computer-interaction",
+      "university": "University of Siegen",
+      "program": "Human Computer Interaction",
+      "degree": "Master",
+      "field": "HCI / Interactive Systems",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Not stated",
+      "applicationRoute": "University portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Oct–31 Oct",
+        "winter": "01 Apr–30 Apr",
+        "note": "DAAD programme listing."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "Source / application page from supplied sheet",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4686/"
+        }
+      ],
+      "notes": "Imported from supplied Excel row 11. Public portal marks unverified fields so users can verify before applying.",
+      "seedRow": 11
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / eligibility requirements",
+      "applicationRoute": "C@MPUS university portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "01 Dec–15 Jan",
+        "winter": "15 May–15 Jul",
+        "note": "Official programme page."
+      },
+      "tuition": "€1,500/semester for most non-EU students in Baden-Württemberg + semester fees",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Stuttgart — AI and Data Science M.Sc.",
+          "url": "https://www.uni-stuttgart.de/en/study/study-programs/Artificial-Intelligence-and-Data-Science-M.Sc./"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "University of Stuttgart",
+      "program": "Artificial Intelligence and Data Science",
+      "id": "university-of-stuttgart-artificial-intelligence-and-data-science"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Computer Science",
+      "language": "English",
+      "intakes": [
+        "Summer",
+        "Winter"
+      ],
+      "admissionType": "Programme-specific admission",
+      "applicationRoute": "C@MPUS university portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Application by 15 Jul (programme is applied for ~9 months in advance)",
+        "winter": "Application by 15 Jan (programme is applied for ~9 months in advance)",
+        "note": "DAAD/official programme notes the unusually early cycle."
+      },
+      "tuition": "€1,500/semester for most non-EU students in Baden-Württemberg + semester fees",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — University of Stuttgart Computer Science",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-stuttgart-computer-science-w42091/?hec-id=w42091"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "University of Stuttgart",
+      "program": "Computer Science",
+      "id": "university-of-stuttgart-computer-science"
+    },
+    {
+      "id": "university-of-technology-nuremberg-human-and-artificial-intelligence",
+      "university": "University of Technology Nuremberg",
+      "program": "Human and Artificial Intelligence",
+      "degree": "Master",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "NC-frei",
+      "applicationRoute": "UTN application portal",
+      "vpd": "Yes",
+      "moi": "Check accepted proof list",
+      "ielts": "6.5 / C1",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "01 Mar–31 May (2026 cycle)",
+        "note": "Verify next intake window."
+      },
+      "tuition": "No tuition fee",
+      "semesterFee": "Approx. €72/semester (snapshot)",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Human and Artificial Intelligence",
+          "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9892/"
+        }
+      ],
+      "notes": "Current-source research update. Always verify the active intake before applying.",
+      "seedRow": 52
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Eligibility assessment (not NC-restricted)",
+      "applicationRoute": "University portal",
+      "vpd": "No",
+      "moi": "Not accepted as a substitute for the required test in the standard case",
+      "ielts": "7.0",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "30 Apr",
+        "note": "For Winter 2026/27 the deadline was 30 Apr 2026."
+      },
+      "tuition": "€1,500/semester for non-EU students + regular semester fees (~€200)",
+      "semesterFee": "Not stated",
+      "applicationFee": "Free",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "University of Tübingen — Machine Learning application",
+          "url": "https://uni-tuebingen.de/en/166353"
+        }
+      ],
+      "notes": "Official page explicitly states that an English-taught Bachelor's degree alone does not remove the English-test requirement.",
+      "seedRow": null,
+      "university": "University of Tübingen",
+      "program": "Machine Learning",
+      "id": "university-of-tubingen-machine-learning"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "Computing / Related",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Without admission restriction / eligibility requirements",
+      "applicationRoute": "University / international application instructions",
+      "vpd": "Not stated",
+      "moi": "Check accepted proof list",
+      "ielts": "6.0",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Non-EU/EU: 15 May–15 Jul; German/internal: to 15 Oct",
+        "note": "DAAD Winter 2026/27."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Computer Simulation in Science",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuppertal-computer-simulation-in-science-w7604/?hec-id=w7604"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "University of Wuppertal",
+      "program": "Computer Simulation in Science",
+      "id": "university-of-wuppertal-computer-simulation-in-science"
+    },
+    {
+      "degree": "M.Sc.",
+      "field": "AI / Machine Learning",
+      "language": "English",
+      "intakes": [
+        "Winter"
+      ],
+      "admissionType": "Selection / aptitude assessment",
+      "applicationRoute": "University application portal",
+      "vpd": "No",
+      "moi": "Check accepted proof list",
+      "ielts": "Check official English proof",
+      "gre": "Not stated",
+      "deadlines": {
+        "summer": "Not offered",
+        "winter": "Checked DAAD cycle showed an early-year aptitude/application window; verify exact current dates",
+        "note": "Programme-specific aptitude process."
+      },
+      "tuition": "€0 tuition; semester contribution applies",
+      "semesterFee": "Not stated",
+      "applicationFee": "Not stated",
+      "sourceStatus": "Verified from DAAD / official source",
+      "sourceChecked": "2026-07-29",
+      "sources": [
+        {
+          "label": "DAAD — Artificial Intelligence / Würzburg programme search",
+          "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-wuerzburg-artificial-intelligence-w70807/?hec-id=w70807"
+        }
+      ],
+      "notes": "",
+      "seedRow": null,
+      "university": "University of Würzburg",
+      "program": "Artificial Intelligence and Extended Reality",
+      "id": "university-of-wurzburg-artificial-intelligence-and-extended-reality"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Public German university programme database for CS, IT, Software Engineering, Data Science, AI and Cybersecurity Master's programmes." />
+  <title>German Universities Portal</title>
+  <link rel="stylesheet" href="./assets/css/styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__inner page-shell">
+      <div>
+        <p class="eyebrow" id="eyebrow">PUBLIC PROGRAMME DATABASE</p>
+        <h1 id="portalTitle">German Universities Portal</h1>
+        <p class="hero__subtitle" id="subtitle">Search and filter computing-related Master's programmes in Germany.</p>
+      </div>
+      <div class="read-only-card" aria-label="Portal status">
+        <span class="status-dot"></span>
+        <div>
+          <strong id="readOnlyLabel">Public read-only</strong>
+          <span>No add, edit, delete or download controls</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="page-shell main-stack">
+    <section class="stats-grid" aria-label="Database summary">
+      <article class="stat-card"><span>Programs</span><strong id="statPrograms">—</strong><small id="statProgramsNote">Loading…</small></article>
+      <article class="stat-card"><span>Universities</span><strong id="statUniversities">—</strong><small>Distinct institutions</small></article>
+      <article class="stat-card"><span>Source-verified</span><strong id="statVerified">—</strong><small>Checked against DAAD / official sources</small></article>
+      <article class="stat-card"><span>Research update</span><strong class="stat-date" id="statUpdated">—</strong><small>Always re-check before applying</small></article>
+    </section>
+
+    <section class="controls-panel" aria-labelledby="controlsHeading">
+      <div class="section-heading-row">
+        <div>
+          <p class="eyebrow dark">LIVE FILTERS</p>
+          <h2 id="controlsHeading">Find a Master's programme</h2>
+        </div>
+        <button id="clearFilters" class="button secondary" type="button">Clear filters</button>
+      </div>
+
+      <div class="notice">
+        <strong>Important:</strong> deadlines, fees and admission rules change. Rows marked <em>Needs re-check</em> were imported from the supplied spreadsheet and should be verified from the linked source before use.
+      </div>
+
+      <div class="filter-grid">
+        <label class="field field--wide">
+          <span>Search all fields</span>
+          <input id="searchInput" type="search" placeholder="University, programme, AI, cybersecurity, IELTS…" autocomplete="off" />
+        </label>
+        <label class="field">
+          <span>Sort by</span>
+          <select id="sortSelect">
+            <option value="university">University A–Z</option>
+            <option value="program">Programme A–Z</option>
+            <option value="verified">Verified first</option>
+            <option value="tuition">Tuition-free first</option>
+          </select>
+        </label>
+        <label class="field"><span>University</span><select id="universityFilter"><option value="">All universities</option></select></label>
+        <label class="field"><span>Field</span><select id="fieldFilter"><option value="">All fields</option></select></label>
+        <label class="field"><span>Intake</span><select id="intakeFilter"><option value="">All intakes</option><option>Summer</option><option>Winter</option></select></label>
+        <label class="field"><span>Language</span><select id="languageFilter"><option value="">All language statuses</option><option value="English">English</option><option value="Mixed">English + German / mixed</option></select></label>
+        <label class="field"><span>Application route</span><select id="routeFilter"><option value="">All routes</option></select></label>
+        <label class="field"><span>VPD</span><select id="vpdFilter"><option value="">All VPD statuses</option><option value="Yes">Yes / conditional</option><option value="No">No</option><option value="Unknown">Not stated</option></select></label>
+        <label class="field"><span>Admission</span><select id="admissionFilter"><option value="">All admission types</option></select></label>
+        <label class="field"><span>Tuition</span><select id="tuitionFilter"><option value="">All tuition statuses</option><option value="free">Tuition-free / €0</option><option value="paid">Tuition applies</option><option value="check">Check source</option></select></label>
+        <label class="field"><span>Source status</span><select id="statusFilter"><option value="">All source statuses</option><option value="verified">Verified</option><option value="recheck">Needs re-check</option></select></label>
+      </div>
+    </section>
+
+    <section class="database-panel" aria-labelledby="databaseHeading">
+      <div class="database-topbar">
+        <div>
+          <p class="eyebrow dark">PROGRAMMES DATABASE</p>
+          <h2 id="databaseHeading">Application list</h2>
+        </div>
+        <div class="result-count" id="resultCount" aria-live="polite">Loading programmes…</div>
+      </div>
+
+      <div id="loadError" class="error-box" hidden></div>
+      <div class="table-wrap" id="tableWrap">
+        <table>
+          <thead>
+            <tr>
+              <th>University</th>
+              <th>Programme</th>
+              <th>Field</th>
+              <th>Intake</th>
+              <th>Winter deadline</th>
+              <th>Summer deadline</th>
+              <th>Route</th>
+              <th>VPD</th>
+              <th>IELTS / English</th>
+              <th>Tuition</th>
+              <th>Admission</th>
+              <th>Source status</th>
+              <th>Details</th>
+            </tr>
+          </thead>
+          <tbody id="programRows"></tbody>
+        </table>
+      </div>
+      <div class="mobile-cards" id="mobileCards"></div>
+      <div id="emptyState" class="empty-state" hidden>No programmes match the current filters.</div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="page-shell footer-grid">
+      <div>
+        <strong>Data source provided by <span id="footerProvider">Muhammad Shazaib</span></strong>
+        <p>Contact: <a id="footerContact" href="tel:03120416882">03120416882</a></p>
+      </div>
+      <p class="footer-disclaimer" id="footerDisclaimer">Errors are possible. Verify every detail at daad.de and the official university website before applying.</p>
+    </div>
+  </footer>
+
+  <dialog id="detailsDialog" class="details-dialog">
+    <div class="dialog-head">
+      <div>
+        <p class="eyebrow dark">PROGRAMME DETAILS</p>
+        <h2 id="dialogTitle"></h2>
+        <p id="dialogUniversity" class="dialog-university"></p>
+      </div>
+      <button id="closeDialog" class="icon-button" type="button" aria-label="Close">×</button>
+    </div>
+    <div id="dialogContent" class="dialog-content"></div>
+  </dialog>
+
+  <script src="./assets/js/app.js" defer></script>
+</body>
+</html>

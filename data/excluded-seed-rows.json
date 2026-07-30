@@ -1,0 +1,38 @@
+[
+  {
+    "row": 12,
+    "university": "FH Münster University of Applied Sciences",
+    "program": "International Marketing and Sales",
+    "reason": "Outside the portal's core CS/IT/SE/DS/AI/Cybersecurity scope."
+  },
+  {
+    "row": 45,
+    "university": "Rhine-Waal University of Applied Sciences",
+    "program": "Design and Interaction",
+    "reason": "Outside the portal's core CS/IT/SE/DS/AI/Cybersecurity scope."
+  },
+  {
+    "row": 59,
+    "university": "Bingen University of Applied Sciences",
+    "program": "Computer Science",
+    "reason": "Duplicate of the Bingen Computer Science entry."
+  },
+  {
+    "row": 67,
+    "university": "Osnabrück University of Applied Sciences",
+    "program": "Design Entrepreneurship",
+    "reason": "Outside the portal's core CS/IT/SE/DS/AI/Cybersecurity scope."
+  },
+  {
+    "row": 68,
+    "university": "University of Bayreuth",
+    "program": "Philosophy & Computer Science",
+    "reason": "Outside the portal's core CS/IT/SE/DS/AI/Cybersecurity scope."
+  },
+  {
+    "row": 71,
+    "university": "Technische Hochschule Ingolstadt",
+    "program": "Sustainability Management and Technologies",
+    "reason": "Outside the portal's core CS/IT/SE/DS/AI/Cybersecurity scope."
+  }
+]

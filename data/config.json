@@ -1,0 +1,14 @@
+{
+  "portalTitle": "German Universities Portal",
+  "eyebrow": "PUBLIC PROGRAMME DATABASE",
+  "subtitle": "Search and filter Master's programmes in Computer Science, IT, Software Engineering, Data Science, AI/ML, Cybersecurity and related computing fields.",
+  "readOnlyLabel": "Public read-only",
+  "lastResearchUpdate": "2026-07-29",
+  "dataProvider": "Muhammad Shazaib",
+  "contact": "03120416882",
+  "disclaimer": "Errors are possible. Verify every detail at daad.de and the official university website before applying.",
+  "defaultFilters": {
+    "sourceStatus": "All"
+  },
+  "scopeNote": "The catalogue is a curated research database, not a legal or admissions authority. Programme availability and deadlines can change without notice."
+}
