@@ -25,6 +25,15 @@
     const s=String(v||'').toLowerCase();
     return (s.includes('german') || s.includes('mixed')) ? 'Mixed' : 'English';
   }
+
+  function greGroup(v){
+    const s=String(v||'').trim().toLowerCase();
+    if(!s || s==='not stated' || s.includes('not confirmed') || s.includes('not listed as a general requirement') || s.includes('not stated;')) return 'unknown';
+    if(s.includes('optional') || s.includes('not required')) return 'not-required';
+    if(s.includes('may be required') || s.includes('conditional') || s.includes('for some applicant') || s.includes('for many applicant') || s.includes('outside lisbon') || s.includes('outside eu/eea') || s.includes('outside specified recognition')) return 'conditional';
+    if(s.includes('mandatory') || s.startsWith('required') || s.includes('quantitative gre') || s.includes('gre >=')) return 'required';
+    return 'unknown';
+  }
   function routeGroup(v){
     const s=String(v||'').toLowerCase();
     if(s.includes('vpd')) return 'VPD + university portal';
@@ -70,6 +79,7 @@
     const language=$('languageFilter').value;
     const route=$('routeFilter').value;
     const vpd=$('vpdFilter').value;
+    const gre=$('greFilter').value;
     const admission=$('admissionFilter').value;
     const tuition=$('tuitionFilter').value;
     const status=$('statusFilter').value;
@@ -85,6 +95,7 @@
       if(vpd==='Yes' && !(String(p.vpd).toLowerCase().startsWith('yes') || String(p.vpd).toLowerCase().includes('conditional'))) return false;
       if(vpd==='No' && String(p.vpd).toLowerCase()!=='no') return false;
       if(vpd==='Unknown' && !['not stated','', 'unknown'].includes(String(p.vpd||'').toLowerCase())) return false;
+      if(gre && greGroup(p.gre)!==gre) return false;
       if(admission && admissionGroup(p.admissionType)!==admission) return false;
       if(tuition && tuitionType(p.tuition)!==tuition) return false;
       if(status==='verified' && !String(p.sourceStatus).toLowerCase().startsWith('verified')) return false;
@@ -119,6 +130,7 @@
         <td>${esc(routeGroup(p.applicationRoute))}</td>
         <td>${vpdBadge(p.vpd)}</td>
         <td>${esc(p.ielts||'Not stated')}</td>
+        <td>${esc(p.gre||'Not stated')}</td>
         <td>${esc(p.tuition||'Check source')}</td>
         <td>${esc(admissionGroup(p.admissionType))}</td>
         <td>${sourceBadge(p.sourceStatus)}</td>
@@ -130,6 +142,7 @@
         <div class="card-grid">
           <div><span>Intake</span><strong>${esc((p.intakes||[]).join(' / '))}</strong></div>
           <div><span>IELTS / English</span><strong>${esc(p.ielts)}</strong></div>
+          <div><span>GRE</span><strong>${esc(p.gre||'Not stated')}</strong></div>
           <div><span>Winter deadline</span><strong>${esc(p.deadlines?.winter)}</strong></div>
           <div><span>Tuition</span><strong>${esc(p.tuition)}</strong></div>
         </div><div class="card-footer">${sourceBadge(p.sourceStatus)}<button class="details-button" data-id="${esc(p.id)}">View details</button></div>`;
@@ -163,10 +176,10 @@
       populateSelect('routeFilter',unique(state.programs.map(p=>routeGroup(p.applicationRoute))));
       populateSelect('admissionFilter',unique(state.programs.map(p=>admissionGroup(p.admissionType))));
       sortPrograms(); render();
-      ['searchInput','universityFilter','fieldFilter','intakeFilter','languageFilter','routeFilter','vpdFilter','admissionFilter','tuitionFilter','statusFilter'].forEach(id=>$(id).addEventListener(id==='searchInput'?'input':'change',applyFilters));
+      ['searchInput','universityFilter','fieldFilter','intakeFilter','languageFilter','routeFilter','vpdFilter','greFilter','admissionFilter','tuitionFilter','statusFilter'].forEach(id=>$(id).addEventListener(id==='searchInput'?'input':'change',applyFilters));
       $('sortSelect').addEventListener('change',()=>{sortPrograms();render();});
       $('clearFilters').addEventListener('click',()=>{
-        $('searchInput').value=''; ['universityFilter','fieldFilter','intakeFilter','languageFilter','routeFilter','vpdFilter','admissionFilter','tuitionFilter','statusFilter'].forEach(id=>$(id).value=''); $('sortSelect').value='university'; applyFilters();
+        $('searchInput').value=''; ['universityFilter','fieldFilter','intakeFilter','languageFilter','routeFilter','vpdFilter','greFilter','admissionFilter','tuitionFilter','statusFilter'].forEach(id=>$(id).value=''); $('sortSelect').value='university'; applyFilters();
       });
       document.addEventListener('click',e=>{ const b=e.target.closest('.details-button'); if(b) openDetails(b.dataset.id); });
       $('closeDialog').addEventListener('click',()=> $('detailsDialog').close());
